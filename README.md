@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aiyom
-- 👀 I’m interested in Python, ML, Deep Learning
-- 🌱 I’m currently learning English and Deep Learning
+- 👋 Hi, I’m @AbdurRahman0109
+- 👀 I’m interested in Python, Dart, Flutter
+- 🌱 I’m currently learning English
 - 📫 How to reach me ... with my telegram account
 
 <!---
